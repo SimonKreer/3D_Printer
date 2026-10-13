@@ -1,0 +1,34 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+._*
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*~
+
+# Autodesk Inventor / CAD temp and backup files (the STEP export in cad/ is kept)
+OldVersions/
+*.bak
+*.lck
+*.tmp
+~$*
+
+# Klipper / Moonraker backups and logs
+printer-*.cfg
+*.cfg.bak
+*.conf.bak
+*.log
+
+# Secrets and private data (never publish)
+*.env
+secrets*
+moonraker.secrets
+*.key
+*.pem
+
+# Archives
+*.zip
