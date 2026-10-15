@@ -3,7 +3,7 @@
 > **Documentation only.** This repository documents a one-off, self-built 3D printer. It is **not** a build guide,
 > and it is not meant to be reproduced. Licensed under [CC BY-NC-ND 4.0](LICENSE.md).
 
-🇩🇪 **Kurzfassung:** Dokumentation eines selbstgebauten 3D-Druckers (Bedslinger, Klipper) aus Industriekomponenten:
+**Deutsche Kurzfassung:** Dokumentation eines selbstgebauten 3D-Druckers (Bedslinger, Klipper) aus Industriekomponenten:
 Bosch-Rexroth-Profile und -Führungen, Industrie-Schaltschrank, massiver Aufbau (ca. 80 kg). Der Bau war nur dadurch
 wirtschaftlich möglich, dass ein Großteil der Industrieteile bereits vorhanden war. Dieses Repo dient ausschließlich der
 Dokumentation, nicht dem Nachbau. Lizenz: CC BY-NC-ND 4.0 (Namensnennung, nicht kommerziell, keine Bearbeitung).
